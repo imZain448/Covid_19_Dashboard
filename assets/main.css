@@ -11,8 +11,9 @@ h1{
 }
 
 table {
-    width : 100vw;
+    width : 60vw;
     font-size: 16px;
+    padding-left: 10vw;
 }
 
 #footer{
