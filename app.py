@@ -90,7 +90,7 @@ app3.layout = html.Div([
             html.Div([
                 'sources', html.Br(),
                 html.A("Covid 19 Data by ESRI" , href = 'https://coronavirus-resources.esri.com/datasets/bbb2e4f589ba40d692fab712ae37b9ac_1/geoservice?geometry=131.565%2C-38.069%2C-114.177%2C63.033&orderBy=Country_Region&selectedAttribute=Confirmed&where=Last_Update%20%3E%3D%20TIMESTAMP%20%272020-02-23%2000%3A00%3A00%27%20AND%20Last_Update%20%3C%3D%20TIMESTAMP%20%272020-04-25%2023%3A59%3A59%27'), html.Br(),
-                html.A('JHU CSS' , href = 'https://github.com/CSSEGISandData/COVID-19') ,html.Br() , html.Br(),
+                html.A('JHU CSSE' , href = 'https://github.com/CSSEGISandData/COVID-19') ,html.Br() , html.Br(),
                 'Created by ',
                 html.A('@imzain448' , href = 'https://www.linkedin.com/in/zain-ahmad-15aa25162?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAMhpXFhyRf2AuntShjhTIw%3D%3D')
             ] , className = 'container', style= {'color':'white'} , id = 'footer')
