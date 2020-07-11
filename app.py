@@ -229,7 +229,8 @@ def update_data(n):
             [{'colspan':3 , 'type':'scatter'},None , None],
             [{'colspan':3 , 'type':'scatter'},None , None],
             [{'colspan':3 , 'type':'scatter'},None , None],
-        ]
+        ],
+        horizontal_spacing = 0.2
     )
     # number indicators
     fig_2.add_trace(
